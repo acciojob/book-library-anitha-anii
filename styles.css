@@ -6,7 +6,7 @@ body{
 
 .author{
 	color: #777777;
-	font-size:14px
+	
 }
 .price-block{
 	display:flex;
@@ -27,7 +27,7 @@ display: block;
   margin: 0 auto;
 	
 }
-h2{
+h1{
 	display:flex;
 	justify-content:center;
 	align-items:center;
